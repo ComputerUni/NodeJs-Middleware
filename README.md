@@ -108,4 +108,4 @@ Bu proje middleware kavramlarını öğrenmek için geliştirilmiştir.
 - [Express.js Dokümantasyonu](https://expressjs.com/)
 - [Express Generator Dokümantasyonu](https://expressjs.com/en/starter/generator.html)
 - [Node.js Dokümantasyonu](https://nodejs.org/)
-- # [Middleware Kavramı](https://expressjs.com/en/guide/using-middleware.html)
+
