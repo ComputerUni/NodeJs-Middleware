@@ -1,5 +1,3 @@
-# MiddlewareNode.js
-
 # Node.js Middleware Projesi
 
 Bu proje, Express.js kullanarak middleware kavramlarını öğrenmek ve uygulamak için geliştirilmiş bir Node.js uygulamasıdır.
